@@ -1,4 +1,4 @@
-# Knowledge-Based ML: Upregulated Genes Pipeline
+# Knowledge-Based ML: Upregulated Genes involved in the co-mornidity of patients who undergo maintenance hemodialysis with heartfailure Pipeline
 
 A comprehensive R pipeline that integrates statistical evidence with biological knowledge to rank upregulated genes and interpret their functional impact.
 
