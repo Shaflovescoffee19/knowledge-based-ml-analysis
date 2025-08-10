@@ -1,4 +1,4 @@
-# Knowledge-Based ML: Upregulated Genes involved in the Co-Morbidity of Patients who Undergo Maintenance Hemodialysis with Heartfailure Pipeline
+# Knowledge-Based ML: DEGs involved in the Co-Morbidity of Patients who Undergo Maintenance Hemodialysis with Heartfailure Pipeline
 
 A comprehensive R pipeline that integrates statistical evidence with biological knowledge to rank upregulated genes and interpret their functional impact.
 
